@@ -1,2 +1,2 @@
 # File-Bomber
-Creates endless ammounts of folders with random names in the bat file directory.
+Creates endless ammounts of folders with random names in the bat file directory. It will also move every file in the directory you place the bat file in to a place of your choosing, which you can change by editing the code. Still trying to figure out how to have the script also move all folders but cant seem to figure it out without getting too complicated, hopefully I'll work it out soon.
